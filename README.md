@@ -1,4 +1,5 @@
 # StockPrediction
+#Siang and Kunsang
 
 To run the first (main) program, it will suffice to simply run the command:
 
